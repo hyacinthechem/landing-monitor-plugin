@@ -11,7 +11,7 @@ This program utilises the SDK to utilise Datarefs to extract real-time data of i
 
 2. vh_ind_fpm ( detects feet per minute )
 
-3. indicated_airspeed ( make sure you've actually landed )
+3. indicated_airspeed ( gives us aircraft airspeed )
 
 4. tire_vertical_force_n_mtr ( gear compression more precise touchdown detection
 
