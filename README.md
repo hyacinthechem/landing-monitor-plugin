@@ -16,3 +16,12 @@ This program utilises the SDK to utilise Datarefs to extract real-time data of i
 4. tire_vertical_force_n_mtr ( gear compression more precise touchdown detection
 
 all from sim/flightmodel
+
+
+### Setup
+
+This project requires the X-Plane SDK headers
+
+1. Download the SDK from developer.x-plane.com/sdk
+2. Extract it into the root of this project as '\SDK'
+3. Build with CMake
