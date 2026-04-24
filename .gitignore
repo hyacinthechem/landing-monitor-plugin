@@ -1,0 +1,12 @@
+# Ignore X-Plane SDK — too large, proprietary, download separately
+SDK/
+
+# Ignore build output
+cmake-build-debug/
+cmake-build-release/
+
+# Ignore Mac junk
+.DS_Store
+
+# Ignore CLion files
+.idea/
